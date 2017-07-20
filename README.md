@@ -4,7 +4,6 @@ test task from Joonas Ruotsalainen back-end
 ```
 cd task-services;
 npm install;
-
 npm start;
 
 ```
